@@ -37,7 +37,7 @@
 
             <div class="col">
                 <select class="custom-select" v-model="state" @change="filter()">
-                    <option value="none" selected>Vlidate Phone number</option>
+                    <option value="none" selected>Validate Phone number</option>
                     <option value="1">Valid</option>
                     <option value="0">Not valid</option>
                 </select>
