@@ -21,5 +21,10 @@ class CustomersController extends Controller
      *
      * @return json
      */
+    public function index(FilterCustomer $request)
+    {
+        $customers = $this->customerService->index($request->country, $request->state);
 
+        return response()->json($customers);
+    }
 }
