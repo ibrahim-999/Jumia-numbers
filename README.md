@@ -7,7 +7,7 @@
 
 ## Used technologies
 1. PHP7
-2. Lumen 
+2. Laravel/Lumen 
 3. Vue.js 
 
 ## How to run
