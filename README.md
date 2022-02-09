@@ -6,9 +6,8 @@
 4. provided with task database.sqlite db has one table customers.
 
 ## Used technologies
-1. PHP7
+1. PHP 
 2. Laravel/Lumen 
-3. Vue.js 
 
 ## How to run
 1. Clone the project.
